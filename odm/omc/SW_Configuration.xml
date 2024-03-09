@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A260G</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>ODM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A260GODM</CSCName>
+        <CSCVersion>CAUJ1</CSCVersion>
+        <NbCustomer>8</NbCustomer>
+        <CustomerData src="/Customer/BKD/customer.xml" />
+        <CustomerData src="/Customer/INS/customer.xml" />
+        <CustomerData src="/Customer/NPB/customer.xml" />
+        <CustomerData src="/Customer/SLI/customer.xml" />
+        <CustomerData src="/Customer/CPW/customer.xml" />
+        <CustomerData src="/Customer/SLK/customer.xml" />
+        <CustomerData src="/Customer/AFG/customer.xml" />
+        <CustomerData src="/Customer/PAK/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>AFG</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_AFG_OO_0003</Version>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BKD</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_BKD_OO_0011</Version>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CPW</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_CPW_OO_0002</Version>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>INS</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_INS_OO_0023</Version>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NPB</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_NPB_OO_0009</Version>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PAK</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_PAK_OO_0003</Version>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLI</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_SLI_OO_0014</Version>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLK</CustomerCode>
+            <Version>SAOMC_SM-A260G_ODM_SLK_OO_0007</Version>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

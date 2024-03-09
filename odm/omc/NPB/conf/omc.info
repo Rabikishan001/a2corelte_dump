@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A260G_ODM_NPB_OO_0009</version>
+  <model>
+    <name>SM-A260G</name>
+  </model>
+  <common>
+    <charging>Charge</charging>
+    <networkBearer>All</networkBearer>
+    <optionalApp>checked</optionalApp>
+  </common>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0001</customerEdition>
+    <others>no</others>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <language>no</language>
+    <apps>no</apps>
+    <resources>no</resources>
+    <defaultWorkspace>no</defaultWorkspace>
+    <defaultApplicationOrder>no</defaultApplicationOrder>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>2</carrierCount>
+    <carrier>
+      <mcc>429</mcc>
+      <mnc>01</mnc>
+      <networkName>Nepal Telecom</networkName>
+    </carrier>
+    <carrier>
+      <mcc>429</mcc>
+      <mnc>02</mnc>
+      <networkName>NCELL</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

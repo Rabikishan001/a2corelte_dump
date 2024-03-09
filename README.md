@@ -1,0 +1,20 @@
+## a2coreltedd-user 8.1.0 OPR6 A260GDDSCAUJ1 release-keys
+- Manufacturer: samsung
+- Platform: exynos5
+- Codename: a2corelte
+- Brand: samsung
+- Flavor: a2coreltedd-user
+- Release Version: 8.1.0
+- Kernel Version: 3.18.91
+- Id: OPR6
+- Incremental: A260GDDSCAUJ1
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a2coreltedd/a2corelte:8.1.0/OPR6/A260GDDSCAUJ1:user/release-keys
+- OTA version: 
+- Branch: a2coreltedd-user-8.1.0-OPR6-A260GDDSCAUJ1-release-keys
+- Repo: samsung_a2corelte_dump

@@ -1,0 +1,15 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+dt=dt.img
+kernel_size=16255088
+ramdisk_size=1605102
+dtb_size=124928
+base_addr=0x10000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+dtbo_offset=0xf0000000
+cmd_line='androidboot.selinux=permissive androidboot.selinux=permissive'
+board="SRPSB21A012KU"
+format=gzip

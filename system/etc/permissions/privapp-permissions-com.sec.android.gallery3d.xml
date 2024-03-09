@@ -1,0 +1,7 @@
+<permissions>
+    <privapp-permissions package="com.sec.android.gallery3d">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+		<permission name="com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION"/>
+    </privapp-permissions>
+</permissions>

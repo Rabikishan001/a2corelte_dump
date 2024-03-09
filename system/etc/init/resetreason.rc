@@ -1,0 +1,7 @@
+# SA, System SW, SAMSUNG
+# allow remain reset info in RR.p
+# change to start service
+service resetreason /system/bin/resetreason
+    class main
+    disabled
+    oneshot

@@ -1,0 +1,5 @@
+<permissions>
+    <privapp-permissions package="com.sec.android.app.SecSetupWizard">
+        <permission name="android.permission.INVOKE_CARRIER_SETUP"/>
+    </privapp-permissions>
+</permissions>

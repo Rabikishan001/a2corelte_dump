@@ -1,0 +1,84 @@
+84
+41
+0
+1
+17
+LVVEFS_ABSOLUTE_PATH
+1
+/vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+2
+/vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+4
+/vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+8
+/vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+32
+/vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131073
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_EARPIECE.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131074
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_SPEAKER.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131076
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131080
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131104
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131120
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131073
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131074
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+2983457    4214246    5952780    8408527    11877359    16777216
+131076
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131080
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131104
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+131120
+/vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+3121152    4337664    6057984    8491008    11923456    16777216
+0
+0
+/data/snd/nxp-dump/Rx_Status.bin
+0
+16000
+/data/snd/nxp-dump/Rx_in.pcm
+0
+16000
+/data/snd/nxp-inject/TestInput_Rx.pcm
+0
+16000
+/data/snd/nxp-dump/Message_Rx_in.bin
+0
+16000
+/data/snd/nxp-inject/TestInput_Message_Rx.bin
+0
+16000
+/data/snd/nxp-dump/Rx_out.pcm
+0
+16000
+/data/snd/nxp-inject/TestInput_Rx.pcm
+0
+16000
+/data/snd/nxp-dump/Rx_Internal_in.pcm
+0
+16000
+/data/snd/nxp-dump/Rx_Internal_out.pcm

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A260G_ODM_CPW_OO_0002</version>
+  <model>
+    <name>SM-A260G</name>
+  </model>
+  <common>
+    <charging>Charge</charging>
+    <networkBearer>All</networkBearer>
+    <optionalApp>checked</optionalApp>
+  </common>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0001</customerEdition>
+    <others>no</others>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <language>no</language>
+    <apps>no</apps>
+    <resources>no</resources>
+    <defaultWorkspace>no</defaultWorkspace>
+    <defaultApplicationOrder>no</defaultApplicationOrder>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>22</carrierCount>
+    <carrier>
+      <mcc>001</mcc>
+      <mnc>01</mnc>
+      <networkName>Orange UK</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>10</mnc>
+      <networkName>O2 UK Pay Monthly</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>10</mnc>
+      <networkName>TESCO</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>10</mnc>
+      <networkName>O2 UK Pay &amp; Go</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>15</mnc>
+      <networkName>Vodafone Contract</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>15</mnc>
+      <networkName>TalkTalk</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>15</mnc>
+      <networkName>Asda</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>15</mnc>
+      <networkName>Vodafone PAYG</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>15</mnc>
+      <networkName>BT Mobile</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>15</mnc>
+      <networkName>Talkmobile PAYG</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>15</mnc>
+      <networkName>Talkmobile Contract</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>20</mnc>
+      <networkName>H3G</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>30</mnc>
+      <networkName>EE/T-Mobile</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>30</mnc>
+      <networkName>Virgin</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>33</mnc>
+      <networkName>Orange UK</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>33</mnc>
+      <networkName>LIFE Mobile</networkName>
+    </carrier>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>86</mnc>
+      <networkName>Orange UK</networkName>
+    </carrier>
+    <carrier>
+      <mcc>272</mcc>
+      <mnc>01</mnc>
+      <networkName>Vodafone IE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>272</mcc>
+      <mnc>02</mnc>
+      <networkName>O2 IRL</networkName>
+    </carrier>
+    <carrier>
+      <mcc>272</mcc>
+      <mnc>03</mnc>
+      <networkName>Meteor</networkName>
+    </carrier>
+    <carrier>
+      <mcc>272</mcc>
+      <mnc>05</mnc>
+      <networkName>H3G IE</networkName>
+    </carrier>
+    <carrier>
+      <mcc>272</mcc>
+      <mnc>11</mnc>
+      <networkName>Tesco Mobile Ireland</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

@@ -1,0 +1,353 @@
+# All blobs are from "a2coreltedd-user 8.1.0 OPR6 A260GDDSCAUJ1 release-keys" and are pinned with sha1sum values
+
+# Audio
+vendor/lib/libaudio-ril.so|0cce6694d47053e10a3da37efb1f2ada44c63e73
+vendor/lib/libaudioroute.so|8930aa91c912c6684eeaafa26546be627fe057b5
+vendor/lib/libtinycompress.so|6b6b7f240d24adf2d8180e72bd48399c6b2bfd42
+
+# Audio-Hardware
+vendor/bin/hw/android.hardware.audio@2.0-service|e91459ec8c1dbf614c640f243d76ab7115835a24
+vendor/etc/init/android.hardware.audio@2.0-service.rc|9c3edaf080745a3ffea4cdcf62e85be4e399defb
+vendor/lib/hw/android.hardware.audio.effect@2.0-impl.so|61bf3230def091d3fec34465577bb15fcd853fd2
+vendor/lib/hw/android.hardware.audio@2.0-impl.so|8db2d59b9abfb382663fcb58f390e51f06345638
+vendor/lib/hw/audio.primary.default.so|e2b68ac112ed599588abb6e0b3377b8bf27e4a6d
+vendor/lib/hw/audio.primary.universal7870_go.so|4bd2d96359db6f9d137a60a4fb81d2d1a6389de3
+vendor/lib/hw/audio.r_submix.default.so|69101675e5aa9989325fab6e32031ef8c78dda11
+vendor/lib/hw/audio.usb.default.so|434472f238bbe030c0a09f92c521bbecfbbc65c9
+
+# Bluetooth
+vendor/bin/hw/android.hardware.bluetooth@1.0-service|ca4b3d63ced521deb2a66193d159fdac6647d85d
+vendor/etc/init/android.hardware.bluetooth@1.0-service.rc|cac543c5aaa32f1b67b38e1ff3acb5e86ad3fe6f
+vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt|20ff2470015815a58df8deecb89fcf3f94374972
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt|73035b557821ed31f9ad2d22fefe2db770905aca
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt|666f62dee083081e704828482609d3f0da7cad40
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt|83fa0a83685021a654b762b1f87697ad4985f106
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt|83fa0a83685021a654b762b1f87697ad4985f106
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt|a9f51ee7833836ed9bdb1403c89d39c5e17a3948
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt|a9f51ee7833836ed9bdb1403c89d39c5e17a3948
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt|f6dbe9db7323ea8d49108c682b022a5d50cd35b0
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt|2acb73202ee72e6efa7dcfcc388c5277431fe102
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt|ce5c187a82ef753eb7c560aa37b3c1ab262ba699
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt|93463ebb53b23beb6265f306799aed5a4435209d
+vendor/lib/hw/android.hardware.bluetooth@1.0-impl.so|2675fe5acb257537f9007d43170f283c8cd53ffc
+vendor/lib/libbt-vendor.so|1b950ac707b707f5a2066ccd32f9cdc6ac055aab
+
+# Bluetooth-AptX
+lib/libaptX_encoder.so|6b72f70a020728b3c25e3604b1774b1e591e15b5
+
+# Camera
+vendor/bin/hw/android.hardware.camera.provider@2.4-service|eb3616c809ce09bc3ceaa94baa03ad777382136f
+vendor/etc/init/android.hardware.camera.provider@2.4-service.rc|b16b5426b8ca74f9403095524e2009a453446847
+vendor/lib/hw/android.hardware.camera.provider@2.4-impl.so|311fde47ffcd950303f2d4a8e586a4726ee3461d
+vendor/lib/hw/camera.universal7870_go.so|77e4cd739198d3ead3074b58af9f8b4b3b47222b
+vendor/lib/libmpbase.so|1096997a551b31c5bcd8845e11d00494310ed3d3
+
+# Camera-arcsoft
+vendor/lib/libarcsoft_beautyshot.so|a4832808d63a67d35c58635e93b49c70b19add35
+vendor/lib/libarcsoft_beautyshot_preview.so|a4832808d63a67d35c58635e93b49c70b19add35
+
+# Configstore
+vendor/bin/hw/android.hardware.configstore@1.0-service|357a1433a29ba0c01c530d704a14c1b45bfb3329
+vendor/etc/init/android.hardware.configstore@1.0-service.rc|20037c3722e23de773cf76b890468cad74c965e2
+
+# DRM
+
+# DRM-Hardware
+vendor/bin/hw/android.hardware.drm@1.0-service|2352fef6d7fba5781cf881b849ffb6512025287b
+vendor/bin/hw/android.hardware.drm@1.0-service.widevine|1660240c4423b981b52dd5b5f488d0e6441b102c
+vendor/etc/init/android.hardware.drm@1.0-service.rc|7db249a84ba3060e6e2976eee373db76fc90ac28
+vendor/etc/init/android.hardware.drm@1.0-service.widevine.rc|b76cd24d93ca0c334648fc90a645329ee40735fd
+vendor/lib/hw/android.hardware.drm@1.0-impl.so|15a6297e9f41d8a899752601d004670d7b83746a
+
+# DRM-Widevine
+vendor/lib/libwvhidl.so|8c6cdfa3084a18c47b275ff79d372ceacff76077
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|42febb70a187426b069605ecd59d1b1db89891e1
+vendor/lib/mediadrm/libwvdrmengine.so|d320decee5fdc9203bc7928bf96b024724fdd3e9
+
+# Display-Hardware
+vendor/bin/hw/android.hardware.graphics.allocator@2.0-service|8fafb18110c6d49c2f0872a1d94768b13e2276c4
+vendor/bin/hw/android.hardware.graphics.composer@2.1-service|693e35d507b9f909fd4fddfe1b713020b1c7578f
+vendor/bin/hw/android.hardware.memtrack@1.0-service|9fccb9e3a6670fc9985063f3e44bcbf988c3949f
+vendor/etc/init/android.hardware.graphics.allocator@2.0-service.rc|6c5c142e713f5585141fe046c80c6be4f7edcfb5
+vendor/etc/init/android.hardware.graphics.composer@2.1-service.rc|efd40224e31dd27a1175ff0d986800051f1e88be
+vendor/etc/init/android.hardware.memtrack@1.0-service.rc|bfade33c87002e2f976c25d7f65dd91ecef14900
+vendor/lib/hw/android.hardware.graphics.allocator@2.0-impl.so|78a2e447da052e8fef4bbedb06d3cdc147659e11
+vendor/lib/hw/android.hardware.graphics.composer@2.1-impl.so|265b7bbe8774fdc013e188dbae1d075bee043df0
+vendor/lib/hw/android.hardware.graphics.mapper@2.0-impl.so|b2ebfb9d2e9ce6cb5fc5419db6ec938d3dc01464
+vendor/lib/hw/android.hardware.memtrack@1.0-impl.so|3b254668c969cc2d77416129f286dc40c3a7fb18
+vendor/lib/hw/gralloc.default.so|4dc3055dc21085630711452e6f2082ba968d5f68
+vendor/lib/hw/gralloc.exynos5.so|780c2082fed9ebd2da2a4b4a29b2645a577ea74f
+vendor/lib/hw/hwcomposer.exynos5.so|d936b935987ab8cdaff41658f5fe6a1bf70041f2
+vendor/lib/hw/memtrack.exynos5.so|d5f6daf40fc748c92ab705bc96d7766c46c962e9
+
+# Firmware
+vendor/firmware/bcm43436B0_V0086.0141.hcd|641dc486b2ccf7287d278f5dfa3e35cce4f8ad78
+vendor/firmware/bcm43436B0_V0096.0154.hcd|40e530338db811da237cdf1a4cc02697c16149c0
+vendor/firmware/fimc_is_lib.bin|0a6c38fc7d26ad990c5f149037e0058b44a98d9d
+vendor/firmware/mfc_fw.bin|f055d7e10134bad30021d6be36ac82e7927d6100
+vendor/firmware/setfile_5e9.bin|cee2e5744c1287cb593f24cc8454cf0e9ed55ebd
+vendor/firmware/setfile_gc5035.bin|62a3512f72b073153900df521db93df2efaabe77
+
+# GPS
+vendor/bin/hw/vendor.samsung.hardware.gnss@1.0-service|fcb40bd88b1addf8842338e36ff3a67c3aaff682
+vendor/etc/init/vendor.samsung.hardware.gnss@1.0-service.rc|4b0dc9fe10f01c255f317d92cfbf00cd63b67b81
+vendor/lib/hw/android.hardware.gnss@1.0-impl.so|89b1059355f14ee8ce97ad0edfa9acec9ee56048
+vendor/lib/hw/gps.default.so|781c72b917c6417de748ef5be39be29ca1a02cd9
+vendor/lib/hw/vendor.samsung.hardware.gnss@1.0-impl.so|085b83099b3a727fb32d9f1b487c66167556d445
+vendor/lib/vendor.samsung.hardware.gnss@1.0.so|2b795da35a86b2dba2d4c2ac25cf6546d9b1cf39
+
+# GPS-Hardware
+
+# Gatekeeper
+vendor/bin/hw/android.hardware.gatekeeper@1.0-service|47db7e70667fbb180abf10f06161ad9df6d254d2
+vendor/etc/init/android.hardware.gatekeeper@1.0-service.rc|8d197aa04d6fd110e06b088b0235c31fea9bdfb9
+vendor/lib/hw/android.hardware.gatekeeper@1.0-impl.so|34c561d0e01355abc5fb9455adf2313148321784
+vendor/lib/hw/gatekeeper.exynos7870.so|029049f6783aaadb033731d30f5c4ac18c19a9c6
+
+# Graphics
+vendor/lib/egl/libGLES_mali.so|fe33414b013a25e159bde9ac4e5442ee8f4dd96a
+vendor/lib/hw/vulkan.exynos5.so|928bceb8b1ac99256218fdcac0d42b3a9a116dce
+vendor/lib/libOpenCL.so|82b1be41cff10b8d54613b72ef066b8ee752fac9
+
+# Health
+vendor/bin/hw/android.hardware.health@1.0-service|5fb121b701954372938f7665bc4fbb3795d34564
+vendor/etc/init/android.hardware.health@1.0-service.rc|9d9cca1a5e3cf01dbb1f790673010db6a3a8fe30
+vendor/lib/hw/android.hardware.health@1.0-impl.so|b52b02cdc7e6908cca41b0a5eaded5da2fe4f7c7
+
+# Keymaster
+vendor/bin/hw/android.hardware.keymaster@3.0-service|549e8b8d9c2707873f5d18fc9971cf9a117beb7e
+vendor/etc/init/android.hardware.keymaster@3.0-service.rc|687025bb0e7f696c041f9d2ee79c6a7ab57272fb
+vendor/lib/hw/android.hardware.keymaster@3.0-impl.so|15cc206d8f964ad0fdc1df5dff80beda34e008fc
+vendor/lib/hw/keystore.mdfpp.so|297bbfc37e74617e67d3ae515c2e3d9c2c4179cb
+vendor/lib/hw/vendor.samsung.security.skeymaster@3.0-impl.so|15c9336c507c896b6f5066b8300dc51002041833
+vendor/lib/libkeymaster2_mdfpp.so|8e4f25e6fff9e4724fa9f0ba22872e607c3bd4ae
+vendor/lib/libkeymaster_helper.so|056e1c6968a54998b0f701ff1bb7eef20ac9bc5c
+vendor/lib/libkeystore-engine-wifi-hidl.so|e24e4bc734bc62ae4b5867289cccd9400f361192
+vendor/lib/libkeystore-wifi-hidl.so|bf3a7897d550326a069078ccdc12fcd6f5cca3e7
+vendor/lib/vendor.samsung.security.skeymaster@3.0_vendor.so|2353347c43f1dcca892ebc8e55abeb931cacb0ac
+
+# Lights
+vendor/bin/hw/android.hardware.light@2.0-service|59c53017b52f63c94319c405cf8480a216490ab9
+vendor/etc/init/android.hardware.light@2.0-service.rc|63f5d3503d1353c8db823b3d80a1483495b62bee
+vendor/lib/hw/android.hardware.light@2.0-impl.so|e9cfae7006c0d17a747c2984c6872ae3aada8e76
+vendor/lib/hw/lights.exynos5.so|6c4d41b30cf8dd003cd1921489545cc74ab7eb87
+
+# Listen
+vendor/lib/hw/android.hardware.soundtrigger@2.0-impl.so|8827578449202618bc5377660f8220a204583e13
+
+# Media
+
+# Media-Hardware
+vendor/lib/libstagefrighthw.so|5c3150b2bb52bf19817ef383beab55dba706b30d
+
+# NFC
+vendor/etc/nxp/AzControlParams_SPEAKER.txt|d07c7cf2affe8544a8fc85064fa52b132bc362a3
+vendor/etc/nxp/LVAZFS_Configuration.txt|2dfd6dfb6aa77178de7d28f57089e2f934086ec7
+vendor/etc/nxp/voiceexperience/LVVEFS_Rx_Configuration.txt|b130cbcfa260edbb409cd7b579f1d575745d3c18
+vendor/etc/nxp/voiceexperience/LVVEFS_Tx_Configuration.txt|9d6aadcd323c197e6e2c4c4c3c117cb16887ffa0
+vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_EARPIECE.txt|e4c38f8227886767ce60aeecd4ab678fc0332aa1
+vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_SPEAKER.txt|c70a5d406b5088ab033c82950f5f1fbb358718ce
+vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt|bc1657ac90c85a904de7ec5caecd9df0229241a4
+vendor/etc/nxp/voiceexperience/mVoIP/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt|bc1657ac90c85a904de7ec5caecd9df0229241a4
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_NARROWBAND_EARPIECE.txt|2d97f1c7303f688abc01b9326f32ae0f682c3667
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_NARROWBAND_SPEAKER.txt|6858ed6de21ebf413265f76fe8f27800eb62bc12
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt|368799f620bb94514eb6c674c56891a686bbcd7a
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt|4f1c6ce52421bca55992d118293e94404e62ba74
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_WIDEBAND_EARPIECE.txt|d8f7a7e8ddc8cf36037eccb885fa594dcd02dc71
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_WIDEBAND_SPEAKER.txt|938a1433bc346238ba3731a002d6b5954551d0e2
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt|71534cb928878f8fbc2e45c181d84120d3f0b7ee
+vendor/etc/nxp/voiceexperience/mVoIP/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt|8dd8e18d1608acb90df80b20f6b578c0c22e2e80
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_EARPIECE.txt|bc1f8494be99ce802b6bed925527fa66216c2183
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_SPEAKER.txt|4f1f5323fe543f472ccec0a8e27ea94951b66330
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt|2152b2913606e85143165b77883c7025c34e478a
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt|887f8278b129f09b0d7389c85bb00caa1a138af2
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_EARPIECE.txt|37bea92c29d9a929f9d820a391fddb8fe8138dd6
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_SPEAKER.txt|3f51a247ba314495ea1ec744fe53178ae5ad5ca6
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt|de207e45aa115aa7926b3c6aa6e70c0d3010f032
+vendor/etc/nxp/voiceexperience/WifiCalling/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt|c9a63d86796a00c7b16faf5f4d27f17b45eb07b4
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_NARROWBAND_EARPIECE.txt|7f91edb2f1ef2c162156050249539b204d0effbb
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_NARROWBAND_SPEAKER.txt|6765e275162459cb85735d6ede95944ffa0fee44
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt|369ef0deed7d132ce3d627cc3da80b707df2b96a
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt|62c6f5748946e2a67923c641a153b84178367018
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_WIDEBAND_EARPIECE.txt|c5c5ef4e02d5156e41f79e60f3ab2b7a034a71cf
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_WIDEBAND_SPEAKER.txt|4d3669a923a30b1a4054bad0f5b4fbc439f57ecf
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt|3f94f92088671bb4dad04af2b7cfc47be2adab7a
+vendor/etc/nxp/voiceexperience/WifiCalling/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt|db20f36509b055585552bd6189868ec2cf4bfb1c
+vendor/lib/libpreprocessing_nxp.so|a79c7bf3d56a9cf35c6e49863b0ec457706716e5
+
+# Perf
+
+# Postprocessing
+
+# Power-Hardware
+vendor/bin/hw/android.hardware.power@1.0-service|8ae0e611bc0671c0ad446a42669efe2823efd271
+vendor/etc/init/android.hardware.power@1.0-service.rc|b750913241dec22cf5f85670cc66b9ac3f5ddeda
+vendor/lib/hw/android.hardware.power@1.0-impl.so|2d5f8acccde4e220f53e8f8064461a1355d981d1
+vendor/lib/hw/power.default.so|b455f16f8fbc5506ee2f3c46e1c0bcb240fae587
+vendor/lib/hw/power.universal7870_go.so|600e7d9b6898f6d3c3176d1c44311f74cfcf757c
+
+# QMI
+
+# Radio
+vendor/lib/vendor.samsung.hardware.radio.channel@1.0_vendor.so|dfaebee72e9c8e98087b879b984a0d180888ebc5
+vendor/lib/vendor.samsung.hardware.radio.secoemhook@1.0_vendor.so|d31232c6543f85ad5d3e5143b954cebd3d2891b0
+vendor/lib/vendor.samsung.hardware.radio@1.1_vendor.so|51cdb37eef19ff4f120b2cb84e20b0fd46fc0a24
+
+# Radio-IMS
+-app/ImsSettings/ImsSettings.apk|7ca944dca5bd5402a0d4c6f357999bba4e26a456
+
+# Samsung
+odm/omc/INS/etc/permissions/privapp-permissions-com.aura.oobe.samsung.xml|249573c5675ef5463676438d9060b14b3fdc6741
+odm/sipdb/Samsung_1000_r1-16_ENubUN_xt9_MLM.ldb|90547a65fee0564c7fb8ae536ad4033205976a22
+odm/sipdb/Samsung_1000_r1-1_BNlsUN_xt9_MLM.ldb|91a2849edcbd3f617dc17ea8cb98592236b2f3da
+odm/sipdb/Samsung_1000_r1-1_ENubUNUK_xt9_MLM.ldb|5363545fe7d4d3f354d5dab1b826b141dc70d36a
+odm/sipdb/Samsung_1000_r1-1_TElsUN_xt9_2.ldb|b5906078060464ba2330378620a6619644ed981f
+odm/sipdb/Samsung_1111_r1-10_HIlsUN_xt9_2.ldb|de19e48a87ea588eec3f11976bb11e5173e00763
+odm/sipdb/Samsung_1111_r1-2_SIlsUNAlternate_xt9_2.ldb|2192413126ec29e0c9d3331083e8ae603425d272
+odm/sipdb/Samsung_1111_r1-3_ASlsUN_xt9_2.ldb|39f186c2d67f44023b1181bdbe6684fa046cc29d
+odm/sipdb/Samsung_1111_r1-3_KNlsUN_xt9_2.ldb|fb604435c69fba5ace142deedeb80ba565ce4e45
+odm/sipdb/Samsung_1111_r1-3_NElsUN_xt9_2.ldb|962e926d87a04ae28cd5a7573c3e018a775cd281
+odm/sipdb/Samsung_1111_r1-3_ORlsUN_xt9_2.ldb|9d1ca52231dcb75a13194b7ba23395c309a24088
+odm/sipdb/Samsung_1111_r1-3_PAlsUN_xt9_2.ldb|ddd874960c4098fa16d9f4d67a6d21684071c625
+odm/sipdb/Samsung_1111_r1-4_TAlsUN_xt9_2.ldb|e879d7dfdc013caf18b2fb43edd058906683f16e
+odm/sipdb/Samsung_1111_r1-5_GUlsUN_xt9_2.ldb|d6321438c9d983a3c908797665482da0e8b2d10a
+odm/sipdb/Samsung_1111_r1-5_MRlsUN_xt9_2.ldb|ee45c29cec447675d736d76c491f6b41991ee810
+odm/sipdb/Samsung_1111_r1-6_MLlsUN_xt9_2.ldb|243f850f2491497639c0570bfde86223e96c8272
+odm/sipdb/Samsung_1111_r1-6_URlsUN_xt9_2.ldb|d6d804f92cdb3698c65ee232a03eefaf9db8617a
+vendor/bin/hw/vendor.samsung.hardware.miscpower@1.0-service|e626a98c2de119b0e624ece834b49de2ec794d45
+vendor/bin/hw/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service|cb5bd8c743569da7f7c25ff9fc0f5f5b4465d79c
+vendor/etc/init/vendor.samsung.hardware.miscpower@1.0-service.rc|514c50505cf1294f96059d17c022d96850c42e2a
+vendor/etc/init/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service.rc|5c136d4b4fd785f47c2f88f2dbe1dfa548c2ee96
+vendor/lib/libsamsungDiamondVoice.so|e8b9518c0997f9f8d6e4ca6cc85617b8fa12eb68
+vendor/lib/libSamsungPostProcessConvertor.so|da2962a17f9880384465e5c9586d83b245f01ea1
+vendor/lib/lib_SamsungRec_06006.so|3212ec645d91809ea06981f6f1b593375577644a
+vendor/lib/lib_soundaliveresampler.so|d77560a721b2cf1db936eb597cc4c3f2d38b6904
+vendor/lib/lib_SoundAlive_SRC384_ver300.so|556adb8548978f2814f1f349fa9bb109d8c0c7df
+vendor/lib/vendor.samsung.hardware.miscpower@1.0.so|8f9ad335336f0c54c95ddf5f55f21fa8704395f8
+vendor/lib/vendor.samsung.hardware.wifi.sec_hostapd@1.0.so|ca8ed3175ef27ed32b85754e1ce3a94babba20f7
+vendor/lib/vendor.samsung.hardware.wifi.supplicant@1.0.so|51764ddba97c6301fd536342762cf6e60d1596b8
+vendor/lib/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0.so|498bd77c324c7c2b51ed63c33582fb03cda91e30
+
+# Sensors
+vendor/bin/hw/android.hardware.sensors@1.0-service|e034860744f6b3ee5f5b56c0faec3444e2eaf682
+vendor/etc/init/android.hardware.sensors@1.0-service.rc|0a4e7ce7e6839f555f02a58250356cfc27c9b969
+vendor/lib/hw/android.hardware.sensors@1.0-impl.so|39c948a4505363fbaf13f6588afce057171834b3
+vendor/lib/hw/sensors.universal7870_go.so|6526db605862c2c84ebbcc74245885eea968071b
+vendor/lib/libsensorlistener.so|c2b8cb39851bc424a6797596c19096685ebb5eab
+vendor/lib/libsensorndkbridge.so|ca246e50f740f9d650934217f79a6248e6c9269b
+
+# Thermal
+vendor/bin/hw/android.hardware.thermal@1.0-service|1b930f0803e6cd06bba3c59cbc4a84f80183d672
+vendor/etc/init/android.hardware.thermal@1.0-service.rc|41c3b2e32b72aac885706e1ee2bc10641e115f36
+vendor/lib/hw/android.hardware.thermal@1.0-impl.so|f1cfc1b49ff7f675c1b9c852b65c0efb52ee79b4
+
+# Time
+
+# Vibrator
+vendor/bin/hw/android.hardware.vibrator@1.0-service|f268c6d15b6a367d29f98cba2ac0d6589de29bb5
+vendor/etc/init/android.hardware.vibrator@1.0-service.rc|b0626092c92b6cd205a658f6ce49490d353b4472
+vendor/lib/hw/android.hardware.vibrator@1.0-impl.so|9c6f2185ce179f2e4e64e0ca8f9b6c3bedfa3994
+vendor/lib/hw/vibrator.default.so|ecf47cff44e32de1e5a837f8b5125f6b60c6c44a
+
+# WiFi
+vendor/bin/hw/android.hardware.wifi@1.0-service|01a6ad543261fc7422e0d05d544ad77a8335a1d6
+vendor/etc/init/android.hardware.wifi@1.0-service.rc|71a525f2ff56ee8df465ddc1d51eb9e540afd8dd
+
+# Misc
+vendor/app/mcRegistry/00060308060501020000000000000000.tlbin|e876ca4e728eb981d2762a3014d5abf4545876d6
+vendor/app/mcRegistry/020a0000000000000000000000000000.drbin|af9f0daa069504fdf23b73f51c4a0090fa66d7e6
+vendor/app/mcRegistry/07060000000000000000000000000000.tlbin|fffb6b64b11cdc3d69575f01f120b971b6db03ac
+vendor/app/mcRegistry/08130000000000000000000000000000.tlbin|7a47f222c3e9ee75a59442c87c7b68fa89a5d036
+vendor/app/mcRegistry/FFFFFFFFD00000000000000000000016.tlbin|ae58b4152e50db8720ab3560ce60e36b13712ba4
+vendor/bin/hw/gpsd|043e75f10de1066a99ffdd8f7ccb5b3a59d6440e
+vendor/bin/hw/macloader|fc6e8d7c7e874d27ee0a11717e643fc4f471788d
+vendor/bin/hw/mfgloader|b4dcd7e50620b633f3b3cf13bcdebc21df7091e2
+vendor/bin/hw/rild|9aa63243f840cad7405f52a126658c6bcf4cd8fa
+vendor/bin/tzdaemon|d4b8f8a04a654033175fe7f3427adecbade6ba89
+vendor/compatibility_matrix.xml|639881a2933108bfd6e6f99c008279791680f9dd
+vendor/etc/carrier/ACG/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/BST/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/CCT/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/LRA/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/SPR/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/TFN/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/USC/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/VMU/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/VZW/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/carrier/XAS/permissions/android.hardware.telephony.cdma.xml|7db30bb6cb45ce19ceed9a14cc14719492463941
+vendor/etc/gnss/ca.pem|6fa7cb915f97a5e073d24c4b2e1cd73650c72970
+vendor/etc/gnss/gps.cfg|743c3fc99a9ce7ab9c6bb62ef654e2cd41d6db06
+vendor/etc/init/init.vendor.rilchip.rc|d0bff1d163386eb25c9bf069813637ec2400db8d
+vendor/etc/init/init.vendor.rilcommon.rc|572f4fca294c6362e89875125576f816ad112a77
+vendor/etc/init/rild.rc|269dbb5c6e32d392727aac708ae596f2111f2358
+vendor/etc/mixer_gains.xml|0e85c0a4c94de2c4d846cf1aa86473ffa8e821b9
+vendor/etc/plmn_delta.bin|d7e3101c98cb300698adac6fde6e42b8e95fbad0
+vendor/etc/plmn_delta_attaio.bin|751a1c7105f1c03fc196689c2a71e2c69aa14e1f
+vendor/etc/plmn_delta_usacdma.bin|5d6b212f80aa633af599fb056dc125657e40253d
+vendor/etc/plmn_delta_usagsm.bin|9a25ec9e9da16ed2f8a9db07f037fe08283b24e5
+vendor/etc/plmn_se13.bin|e5c058849a61bc14bcde317764a2e7355164f516
+vendor/etc/SoundBoosterParam.txt|f46f699b0260de43d4dd21d85ceec100bc1551b6
+vendor/lib/libandroid_ssrm.so|c9909e30ceff2fba00357dbb27338c1675939466
+vendor/lib/libcordon.so|8b6e88803fc4b18e18f1dd19c5f548a18fe3a85e
+vendor/lib/libcsc.so|a6b47e5ddb167bb053dab7204ba178ceebc0c181
+vendor/lib/libexynoscamera.so|9003fc37c20ffb3720b5382d762e0ff8546861ea
+vendor/lib/libexynoscamera3.so|907a45bf54b5322ba56d3f95353bb4d369784517
+vendor/lib/libexynosdisplay.so|96f135750b6297db3e3389fd38a3447d4f9cdc7b
+vendor/lib/libexynosgscaler.so|7797663f55a337453ed4a774145183f9fe24ffcc
+vendor/lib/libExynosHWCService.so|9b9433d8c835b73837abfac9a7d14372c5ba02c3
+vendor/lib/libExynosOMX_Core.so|7b4fd36a96e63cc632695d206e455607a09ee0b8
+vendor/lib/libExynosOMX_Resourcemanager.so|aa5454583a77e30e197d1967c650755712d3ca0d
+vendor/lib/libexynosscaler.so|ae9bbb32fae57a9d5a1fb5db318902a047fe10b7
+vendor/lib/libexynosutils.so|37ba491a69076c5ba278af66d6ba69cfc78dc27c
+vendor/lib/libexynosv4l2.so|2ea7ed7e7dcdcf8c0e99fb07f51b51561a83c994
+vendor/lib/libfloatingfeature.so|daa81131b94e6973ee83abc3a6b161ddbee1b368
+vendor/lib/libhdmi.so|2533df9bb1332b906b6fa26b5ea1f6b8063c884a
+vendor/lib/libhwcutils.so|6f29623f799a7ac654615cbc2947fcc5bc145740
+vendor/lib/libhwjpeg.so|e06f6fefc53b45bd108bdfb4caaeef3dd27def2c
+vendor/lib/libhwminijail.so|09dd8378eecaa70ed64ddd4dfd5e319d0cc52e36
+vendor/lib/libion_exynos.so|8c947f79401be1be4b29ec355071486aefcb9892
+vendor/lib/libLifevibes_lvverx.so|3ce8da2f31ae9b781a2069ebe0ae722dfdca21da
+vendor/lib/libLifevibes_lvvetx.so|2e07dd95f241a4b95748bdc7b483b284825f7962
+vendor/lib/libMcClient.so|d517b1e39a1d819b196e1269645c4dfc42f7811b
+vendor/lib/libmediacodecservice.so|c4966941049d41b62c1bd698b1136e0f3294399e
+vendor/lib/libminijail_vendor.so|e1e441f4074bd10c8fc359955107e3390a90ff9d
+vendor/lib/libmpbase_preview.so|1096997a551b31c5bcd8845e11d00494310ed3d3
+vendor/lib/libmpp.so|dac5468ea0fadf2a544f087f41337457f61d7d95
+vendor/lib/libOpenCL.so.1|4ba70116712c997b26c499e06fa84926ae84ef0c
+vendor/lib/libOpenCL.so.1.1|928bceb8b1ac99256218fdcac0d42b3a9a116dce
+vendor/lib/librecordalive.so|757c0f634ae4bd301b4c7e02419e9d269a38ca2f
+vendor/lib/libsec-ril-dsds.so|c89382c73229de3cd0b2ce8905802b2fca325fcf
+vendor/lib/libsec-ril.so|2d429704a77f5c14aa41e6cdbd69731d87e78e6a
+vendor/lib/libsecaudioinfo.so|56ea0dcdfd4d6de96e9ccbf430d96462a3d7ef50
+vendor/lib/libsecnativefeature.so|b64b28637cc1ed214aadec8a01d359aac994381e
+vendor/lib/libselinux_vendor.so|e95c05242a019b36e5c9293050fad25ca56d6c52
+vendor/lib/libstainkiller.so|0ebef2c88a555385fda354f957277d9fce65899d
+vendor/lib/libteecl.so|cd01b88b0da3eefddfdb451bb25a2f9fe670de83
+vendor/lib/libtinyalsa.so|af181e0d634df8164560a03c92f9c1a1e0ebb983
+vendor/lib/libuniapi.so|bb080e6576effd6b8d374fd98a6a0f3e4f37e041
+vendor/lib/libuniplugin.so|566f63e3a5394ade49d000dd68ee570a6d249c9d
+vendor/lib/libuuid.so|2ae1d9364508f2ea868ed24290f27a88f7df093c
+vendor/lib/libvideobeautycapture_interface.so|439699d490f6ab517aa17b306b1ebf87e2937849
+vendor/lib/libvideobeautypreview_interface.so|0531825fc7cb5714f0219a68dc80f6321c9d2f1b
+vendor/lib/libvirtualdisplay.so|1320c1cb2f372794018f8eea9b6075c8aaf09327
+vendor/lib/libvndsecril-client.so|7731eaf295db338207ff131d7a91b098fcacb8e5
+vendor/lib/libwifi-hal.so|c543454e3c4413f28f977031a11885a212232674
+vendor/lib/libwrappergps.so|d585ad14b8f7a99ab52e940e0827dcc69fe290eb
+vendor/lib/omx/libOMX.Exynos.AVC.Decoder.so|57cf0d31d1e49b68f88e089f9d95a53ce870c20b
+vendor/lib/omx/libOMX.Exynos.AVC.Encoder.so|4e91e7338c3a5b127196f4a9e87ec960ea3a9fbe
+vendor/lib/omx/libOMX.Exynos.HEVC.Decoder.so|04646ab5bf5765b8b573ee32a0ce77919ac0db23
+vendor/lib/omx/libOMX.Exynos.HEVC.Encoder.so|ced633902d1c958df659895cee5208bf439cc245
+vendor/lib/omx/libOMX.Exynos.MPEG4.Decoder.so|de4e8dc68ead6abd0c4f521cf7563e709f19ae8e
+vendor/lib/omx/libOMX.Exynos.MPEG4.Encoder.so|8059ec330cd8e756392bb22cbe83791524469a24
+vendor/lib/omx/libOMX.Exynos.VP8.Decoder.so|6206623111fb9cd1cf544ae07e36dbdeda94a805
+vendor/lib/omx/libOMX.Exynos.VP8.Encoder.so|11e5d0b76f9fd103e52ece629668ca608e651ff6
+vendor/lib/omx/libOMX.Exynos.WMV.Decoder.so|ad3422bf68f8dd723322cf75798b27d70c8b3362
+vendor/lib/soundfx/libLifevibes_lvverx.so|3ce8da2f31ae9b781a2069ebe0ae722dfdca21da
+vendor/lib/soundfx/libLifevibes_lvvetx.so|2e07dd95f241a4b95748bdc7b483b284825f7962
+vendor/lib/vndk-sp/libion.so|f7d9c867e64fd39796530642774c1e6912edb509
+vendor/tee/00000000-0000-0000-0000-474154454b45|01055bf0bcbc06a2780dc0e4acfe3b33e61b6bd9
+vendor/tee/00000000-0000-0000-0000-4b45594d5354|24071eb232f571fadc8834c0ed16b4c810eaa008
+vendor/tee/00000000-0000-0000-0000-505256544545|cd618f779a5604e17f066f145ba11c3aaa5a1934
+vendor/tee/driver/18d9f073-18a5-4ade-9def-875e07f7f293_|423c1167fb8252c65ba0c72157a7b2b701ca30c5
+vendor/tee/startup.tzar|6511cd0361270a9b2b1322e33636943d72a3a005
+vendor/[SYS]/Journal

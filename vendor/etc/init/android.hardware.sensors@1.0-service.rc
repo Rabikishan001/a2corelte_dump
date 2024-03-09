@@ -1,0 +1,9 @@
+service sensors-hal-1-0 /vendor/bin/hw/android.hardware.sensors@1.0-service
+    class hal
+    user system
+    group system wakelock
+    capabilities BLOCK_SUSPEND SYS_NICE
+
+on property:sys.sensor.restart=1
+    setprop sys.sensor.restart 0
+    restart sensors-hal-1-0

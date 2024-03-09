@@ -1,0 +1,8 @@
+<permissions>
+        <privapp-permissions package="com.samsung.android.timezone.autoupdate_O">
+            <permission name="android.permission.INSTALL_PACKAGES"/>
+            <permission name="android.permission.REBOOT"/>
+            <permission name="android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME"/>
+            <permission name="android.permission.UPDATE_CONFIG"/>
+        </privapp-permissions>
+</permissions>

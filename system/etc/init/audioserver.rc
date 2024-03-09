@@ -1,0 +1,21 @@
+service audioserver /system/bin/audioserver
+    class main
+    user audioserver
+    # media gid needed for /dev/fm (radio) and for /data/misc/media (tee)
+    group audio camera drmrpc inet media mediadrm net_bt net_bt_admin net_bw_acct log
+    ioprio rt 4
+    writepid /dev/cpuset/foreground/tasks /dev/stune/foreground/tasks
+    onrestart restart audio-hal-2-0
+
+on property:vts.native_server.on=1
+    stop audioserver
+on property:vts.native_server.on=0
+    start audioserver
+
+#[ADD_FOR_SAMSUNG : make /data/snd
+on post-fs-data
+    mkdir /data/snd 0777 audioserver system
+    mkdir /data/snd/audiopcm 0777 audioserver system
+    chown audioserver system /data/snd
+    chown audioserver system /data/snd/audiopcm
+#ADD_FOR_SAMSUNG]

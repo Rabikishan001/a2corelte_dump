@@ -1,0 +1,89 @@
+# NVRAM file for BCM943436L WLBGA - A2_CORE rev01 20190212_ Target power changed (1dB up _ 19dBm)
+# 2.4 GHz, 20 MHz BW mode
+
+# The following parameter values are just placeholders, need to be updated.
+manfid=0x2d0
+prodid=0x0726
+vendid=0x14e4
+devid=0x43e2
+boardtype=0x0726
+boardrev=0x1220
+boardnum=22
+macaddr=00:90:4c:c5:12:38
+sromrev=11
+boardflags=0x00404201
+boardflags3=0x08000000
+xtalfreq=37400
+nocrc=1
+ag0=0
+aa2g=1
+ccode=ALL
+
+pa0itssit=0x20
+extpagain2g=0
+
+#PA parameters for 2.4GHz, measured at CHIP OUTPUT
+#pa2ga0=0xFF58,0x19F9,0xFCF6
+## -1.5dB ##
+pa2ga0=0xFF58,0x1B79,0xFCD6
+
+#pa2ga0_2pwr=0xFF2B,0x138E,0xFD84
+## +1.5dB ##
+pa2ga0_2pwr=0xFF2B,0x120E,0xFDAC
+pmin=0
+pmax=40
+
+AvVmid_c0=0x0,0xc8
+AvVmidIQcal=0x2,0xa8
+cckpwroffset0=2
+
+# PPR params
+maxp2ga0=82
+txpwrbckof=6
+cckbw202gpo=0
+legofdmbw202gpo=0x66422222
+mcsbw202gpo=0x88422222
+propbw202gpo=0xdd
+
+# OFDM IIR :
+ofdmdigfilttype=18
+ofdmdigfilttypebe=17
+# PAPD mode:
+papdmode=1
+#papdvalidtest=1
+pacalidx2g=32
+papdepsoffset=-32
+papdendidx=61
+
+txpwroffset2g=-2,0,0,1,0,0,0,0,0,0,0,0,0
+rssicornorm=-2
+
+il0macaddr=00:90:4c:c5:12:38
+wl0id=0x431b
+
+deadman_to=0xffffffff
+
+# muxenab: 0x1 for UART enable, 0x2 for GPIOs, 0x8 for JTAG
+muxenab=0x10
+
+# CLDO PWM voltage settings - 0x4 - 1.1 volt
+#cldo_pwm=0x4
+
+#VCO freq 326.4MHz
+spurconfig=0x3
+
+#btc_params95=8
+
+edonthd20l=-65
+edoffthd20ul=-71
+eu_edonthd20l=-72
+eu_edoffthd20ul=-78
+
+#CH12 CH13 Power Limit
+fccpwrch12=40
+fccpwrch13=6
+fccpwroverride=0
+
+dynamicsarctrl_2g=0x00b0
+
+shwakepin=0x23

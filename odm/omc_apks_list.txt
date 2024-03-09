@@ -1,0 +1,1 @@
+/odm/priv-app/appcloud_oobe/appcloud_oobe.apk

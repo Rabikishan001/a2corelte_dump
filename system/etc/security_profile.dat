@@ -1,0 +1,61 @@
+Wed, 13 Oct 2021 19:23:41 +0900
+:TZ_DRM
+Number of modules
+4
+system/bin/mediaserver
+c6822fe8be57c70fb261e2fd92f0d82d596e1f8b7f60ce5323a3830a358fd9ee
+system/lib/libstagefright.so
+b6550d418a3c37bcadb42c15bf6babd3b4602fbe0c4abe233251114694def592
+system/lib/libdrmframework.so
+1bca949d79ab787f712966e230a57355e40ef648a89dbf2e6a460b63173f63a0
+system/lib/libdrmframework_jni.so
+cf52046730d4c19a15e08d5a50d6f85fd5933b9cd9cd59a926b4b2691884b157
+:FIDD
+Number of modules
+1
+vendor/lib/libMcClient.so
+76f6a67b86d753f1e8b5f4b9721d5e7e5cd7eafd833ed5f6665bf49a68074cef
+:CC
+Number of modules
+15
+system/bin/app_process
+87fa9ccb1db7e8e473700d98c6c01aed04037cdcaa91babd098eb82c021356b6
+system/bin/dalvikvm
+5686e17ae72f13af226d58157f991a5177b6cfb7cb814211e3eb333d7576128f
+system/lib/libcrypto.so
+14b7c68527686d4672e90e3812959efd163a42464ea54e6b5b0f51edd53d77b7
+system/lib/libjavacrypto.so
+73af029924d902c470c73a39e4a9e3eee1270d6260dd10a4a3024e31c4d1c5ce
+system/lib/libssl.so
+ed9c15565a0daab1e5c3a46a1fb1fb3d2f6e5992b8bea4c5a0764bb208bedf9e
+system/bin/vold
+590d800c972e5d9ee40738692a2cf900855c231a1173e2b285f57c058bbd6a50
+system/lib/libsec_ode_pbkdf.so
+0b43c1385f26bef7239907c98642e5fc89b83545eccd997647174d57275584e6
+system/bin/keystore
+31d2adaf904053475c9723f87927ed68889abf624cbf50a8087a035e5414e9e3
+system/bin/gatekeeperd
+6585bf4f8fbb44acc9543fca25f67dda533eb72aba49adcb5ba97419d92d9dd0
+system/lib/libsoftkeymaster.so
+fe8c544b27358fdfaa0777fbb8292b5582ba5f2ace2128999f34bb7d4a6be8f6
+system/lib/libkeystore_binder.so
+a208cd2ad6c87cb4bddff89fcd3a8c1541cf64d9346915c91c3e223211739b50
+vendor/bin/hw/wpa_supplicant
+6c8c5c9f8a9d49b45df466759a2d6ac15223cbb1e84d42f0c826ebe833474083
+vendor/bin/hw/macloader
+0037bb0e84b1aee8e7855f469acad59a8830428bdadf379e1ac05ce287cf2b40
+vendor/bin/hw/mfgloader
+c6f6bf6b23f21988735a6875302d0855e81135c4016716d8ece1179754a3b28f
+system/bin/wlandutservice
+be6d7e154bf5382dff80b2da4111a554c9ac1b142bb3eaef779a3a7ca9ec2c78
+:SYSSCOPE
+Number of modules
+2
+system/app/SysScope/SysScope.apk
+c0f2a850f6d18a33d129eed4df82f7d51ccb5b1013eb329cd24cd07ec60bd700
+system/app/SysScope/oat/arm/SysScope.odex
+17cb397ba7880de6059fa8a1b3bcff5b8dbd0ac6249492696f7c298d68877649
+ùdî’)QGl˘¶Zçz‚ù∆ç¸H2·¶ura]l<x©–‹˙û¶zó–~æœ{ŒØcè∫ÂÑàEÀfW&iõxˇ:”–Yï€lÃ7˝IT"Èƒ»[ Òñlb‡∂y$¨vàíÈÀƒ‚uâÚ]ƒz^sÕuç‰8TÄ¨CÍ¡ñí∏ñ"òe¬îïV%∏≠fhfµÎ‚/#äèô≈5´Lú8ãb˙%—f…%_üc>"Áû∂{>”`pëÉÕ«vww¯Hˆ/R*GO
+%öQan÷êªÒ
+·z≈Çÿ§∆[—è’ŸøX:
+”É»Ák2Iëâl‹ùΩ›¢ŸÊõ
