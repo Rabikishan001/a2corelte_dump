@@ -1,4 +1,4 @@
-## a2coreltedd-user 8.1.0 OPR6 A260GDDSCAUJ1 release-keys
+
 - Manufacturer: samsung
 - Platform: exynos5
 - Codename: a2corelte
